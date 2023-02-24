@@ -8,6 +8,7 @@
         <annotation/>
         <callable_by_client_api>false</callable_by_client_api>
         <category display_value="Procurement">eed09ad91ba70c10a2a9c91b1e4bcbb2</category>
+        <compiler_build>glide-sandiego-12-22-2021__patch9a-12-12-2022_01-04-2023_0931.zip</compiler_build>
         <copied_from>47bb4d9447c29510a4be65a5d36d43f8</copied_from>
         <copied_from_name>Cancel GoodReceipt(V2)</copied_from_name>
         <description>&lt;p&gt;Cancels a goods receipt document in SAP ECC - RFC.&lt;/p&gt;
@@ -55,15 +56,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>0a732f1a47af1110a4be65a5d36d430f</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Cancel Goods Receipt</sys_name>
         <sys_overrides/>
         <sys_package display_value="SAP ECC RFC Spoke" source="sn_sap_ecc_rfc_spo">91a239c5db690050ea4494d9db961933</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="SAP ECC RFC Spoke">91a239c5db690050ea4494d9db961933</sys_scope>
         <sys_update_name>sys_hub_action_type_definition_0a732f1a47af1110a4be65a5d36d430f</sys_update_name>
-        <sys_updated_by>akash</sys_updated_by>
-        <sys_updated_on>2023-02-20 11:44:45</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-24 15:30:25</sys_updated_on>
         <system_level>false</system_level>
         <type/>
     </sys_hub_action_type_definition>
@@ -1123,11 +1124,11 @@
         <sys_created_on>2022-12-06 07:54:11</sys_created_on>
         <sys_id>b6732f1a47af1110a4be65a5d36d43cd</sys_id>
         <sys_mod_count>1</sys_mod_count>
-        <sys_name/>
+        <sys_name>Response</sys_name>
         <sys_package display_value="SAP ECC RFC Spoke" source="sn_sap_ecc_rfc_spo">91a239c5db690050ea4494d9db961933</sys_package>
         <sys_policy/>
         <sys_scope display_value="SAP ECC RFC Spoke">91a239c5db690050ea4494d9db961933</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_22732f1a47af1110a4be65a5d36d43b8_response_en</sys_update_name>
         <sys_updated_by>akash</sys_updated_by>
         <sys_updated_on>2022-12-30 08:45:42</sys_updated_on>
         <url/>
@@ -1146,11 +1147,11 @@
         <sys_created_on>2022-12-06 07:54:11</sys_created_on>
         <sys_id>be732f1a47af1110a4be65a5d36d43d0</sys_id>
         <sys_mod_count>1</sys_mod_count>
-        <sys_name/>
+        <sys_name>Status</sys_name>
         <sys_package display_value="SAP ECC RFC Spoke" source="sn_sap_ecc_rfc_spo">91a239c5db690050ea4494d9db961933</sys_package>
         <sys_policy/>
         <sys_scope display_value="SAP ECC RFC Spoke">91a239c5db690050ea4494d9db961933</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_22732f1a47af1110a4be65a5d36d43b8_status_en</sys_update_name>
         <sys_updated_by>akash</sys_updated_by>
         <sys_updated_on>2022-12-30 08:45:42</sys_updated_on>
         <url/>
@@ -1673,11 +1674,11 @@
         <sys_created_on>2022-12-06 07:54:12</sys_created_on>
         <sys_id>32732f1a47af1110a4be65a5d36d43fc</sys_id>
         <sys_mod_count>1</sys_mod_count>
-        <sys_name/>
+        <sys_name>Error Message</sys_name>
         <sys_package display_value="SAP ECC RFC Spoke" source="sn_sap_ecc_rfc_spo">91a239c5db690050ea4494d9db961933</sys_package>
         <sys_policy/>
         <sys_scope display_value="SAP ECC RFC Spoke">91a239c5db690050ea4494d9db961933</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_72732f1a47af1110a4be65a5d36d43da_err_en</sys_update_name>
         <sys_updated_by>akash</sys_updated_by>
         <sys_updated_on>2022-12-30 08:45:42</sys_updated_on>
         <url/>
@@ -1696,11 +1697,11 @@
         <sys_created_on>2022-12-06 07:54:12</sys_created_on>
         <sys_id>72732f1a47af1110a4be65a5d36d43ec</sys_id>
         <sys_mod_count>1</sys_mod_count>
-        <sys_name/>
+        <sys_name>Status</sys_name>
         <sys_package display_value="SAP ECC RFC Spoke" source="sn_sap_ecc_rfc_spo">91a239c5db690050ea4494d9db961933</sys_package>
         <sys_policy/>
         <sys_scope display_value="SAP ECC RFC Spoke">91a239c5db690050ea4494d9db961933</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_72732f1a47af1110a4be65a5d36d43da_status_en</sys_update_name>
         <sys_updated_by>akash</sys_updated_by>
         <sys_updated_on>2022-12-30 08:45:42</sys_updated_on>
         <url/>
@@ -1719,11 +1720,11 @@
         <sys_created_on>2022-12-06 07:54:12</sys_created_on>
         <sys_id>7a732f1a47af1110a4be65a5d36d43e8</sys_id>
         <sys_mod_count>1</sys_mod_count>
-        <sys_name/>
+        <sys_name>Response</sys_name>
         <sys_package display_value="SAP ECC RFC Spoke" source="sn_sap_ecc_rfc_spo">91a239c5db690050ea4494d9db961933</sys_package>
         <sys_policy/>
         <sys_scope display_value="SAP ECC RFC Spoke">91a239c5db690050ea4494d9db961933</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_72732f1a47af1110a4be65a5d36d43da_response_en</sys_update_name>
         <sys_updated_by>akash</sys_updated_by>
         <sys_updated_on>2022-12-30 08:45:42</sys_updated_on>
         <url/>
@@ -1972,18 +1973,6 @@
         <sys_updated_on>2023-02-16 07:00:34</sys_updated_on>
         <table>var__m_sys_hub_step_ext_input_a6732f1a47af1110a4be65a5d36d4362</table>
         <value>{{action.GOODSMVT_PSTNG_DATE}}</value>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>script</field>
-        <id>a6732f1a47af1110a4be65a5d36d4362</id>
-        <sys_created_by>akash</sys_created_by>
-        <sys_created_on>2023-02-16 07:00:34</sys_created_on>
-        <sys_id>4fa982e5478d6550f8cfb777746d43cc</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>akash</sys_updated_by>
-        <sys_updated_on>2023-02-16 07:00:34</sys_updated_on>
-        <table>var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7</table>
-        <value/>
     </sys_element_mapping>
     <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>userName</field>
@@ -2988,11 +2977,11 @@
         <sys_created_on>2022-12-06 07:54:11</sys_created_on>
         <sys_id>62732f1a47af1110a4be65a5d36d438b</sys_id>
         <sys_mod_count>2</sys_mod_count>
-        <sys_name/>
+        <sys_name>Credential ID</sys_name>
         <sys_package display_value="SAP ECC RFC Spoke" source="sn_sap_ecc_rfc_spo">91a239c5db690050ea4494d9db961933</sys_package>
         <sys_policy/>
         <sys_scope display_value="SAP ECC RFC Spoke">91a239c5db690050ea4494d9db961933</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_a6732f1a47af1110a4be65a5d36d4362_cred_id_en</sys_update_name>
         <sys_updated_by>akash</sys_updated_by>
         <sys_updated_on>2023-01-06 09:21:39</sys_updated_on>
         <url/>
@@ -3011,11 +3000,11 @@
         <sys_created_on>2023-01-06 09:21:39</sys_created_on>
         <sys_id>96c0e3d49790e110215b35471153aff2</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Payload</sys_name>
         <sys_package display_value="SAP ECC RFC Spoke" source="sn_sap_ecc_rfc_spo">91a239c5db690050ea4494d9db961933</sys_package>
         <sys_policy/>
         <sys_scope display_value="SAP ECC RFC Spoke">91a239c5db690050ea4494d9db961933</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_a6732f1a47af1110a4be65a5d36d4362_payload_en</sys_update_name>
         <sys_updated_by>akash</sys_updated_by>
         <sys_updated_on>2023-01-06 09:21:39</sys_updated_on>
         <url/>
@@ -3034,11 +3023,11 @@
         <sys_created_on>2022-12-06 07:54:11</sys_created_on>
         <sys_id>e6732f1a47af1110a4be65a5d36d43a7</sys_id>
         <sys_mod_count>2</sys_mod_count>
-        <sys_name/>
+        <sys_name>Connection Host</sys_name>
         <sys_package display_value="SAP ECC RFC Spoke" source="sn_sap_ecc_rfc_spo">91a239c5db690050ea4494d9db961933</sys_package>
         <sys_policy/>
         <sys_scope display_value="SAP ECC RFC Spoke">91a239c5db690050ea4494d9db961933</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_a6732f1a47af1110a4be65a5d36d4362_conn_host_en</sys_update_name>
         <sys_updated_by>akash</sys_updated_by>
         <sys_updated_on>2023-01-06 09:21:39</sys_updated_on>
         <url/>
@@ -3057,11 +3046,11 @@
         <sys_created_on>2022-12-06 07:54:11</sys_created_on>
         <sys_id>ee732f1a47af1110a4be65a5d36d43aa</sys_id>
         <sys_mod_count>2</sys_mod_count>
-        <sys_name/>
+        <sys_name>Connection Parameters</sys_name>
         <sys_package display_value="SAP ECC RFC Spoke" source="sn_sap_ecc_rfc_spo">91a239c5db690050ea4494d9db961933</sys_package>
         <sys_policy/>
         <sys_scope display_value="SAP ECC RFC Spoke">91a239c5db690050ea4494d9db961933</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_a6732f1a47af1110a4be65a5d36d4362_conn_params_en</sys_update_name>
         <sys_updated_by>akash</sys_updated_by>
         <sys_updated_on>2023-01-06 09:21:39</sys_updated_on>
         <url/>
@@ -4779,11 +4768,11 @@
         <sys_created_on>2023-02-20 11:44:33</sys_created_on>
         <sys_id>1601ffb647cd6110f8cfb777746d43ed</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Cancel Goods Receipt</sys_name>
         <sys_package display_value="SAP ECC RFC Spoke" source="sn_sap_ecc_rfc_spo">91a239c5db690050ea4494d9db961933</sys_package>
         <sys_policy/>
         <sys_scope display_value="SAP ECC RFC Spoke">91a239c5db690050ea4494d9db961933</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_0a732f1a47af1110a4be65a5d36d430f_dynamic_hidden_input_cancel_goods_receipt_en</sys_update_name>
         <sys_updated_by>akash</sys_updated_by>
         <sys_updated_on>2023-02-20 11:44:33</sys_updated_on>
         <url/>
@@ -4802,11 +4791,11 @@
         <sys_created_on>2022-12-06 07:54:10</sys_created_on>
         <sys_id>6e732f1a47af1110a4be65a5d36d4352</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Additional Fields</sys_name>
         <sys_package display_value="SAP ECC RFC Spoke" source="sn_sap_ecc_rfc_spo">91a239c5db690050ea4494d9db961933</sys_package>
         <sys_policy/>
         <sys_scope display_value="SAP ECC RFC Spoke">91a239c5db690050ea4494d9db961933</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_0a732f1a47af1110a4be65a5d36d430f_additional_fields_en</sys_update_name>
         <sys_updated_by>akash</sys_updated_by>
         <sys_updated_on>2022-12-06 07:54:10</sys_updated_on>
         <url/>
@@ -4825,11 +4814,11 @@
         <sys_created_on>2022-12-06 07:54:10</sys_created_on>
         <sys_id>92732f1a47af1110a4be65a5d36d4336</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Goods Create Receipt</sys_name>
         <sys_package display_value="SAP ECC RFC Spoke" source="sn_sap_ecc_rfc_spo">91a239c5db690050ea4494d9db961933</sys_package>
         <sys_policy/>
         <sys_scope display_value="SAP ECC RFC Spoke">91a239c5db690050ea4494d9db961933</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_0a732f1a47af1110a4be65a5d36d430f_dynamic_hidden_input_goods_create_reciept_en</sys_update_name>
         <sys_updated_by>akash</sys_updated_by>
         <sys_updated_on>2022-12-06 07:54:10</sys_updated_on>
         <url/>
@@ -4848,11 +4837,11 @@
         <sys_created_on>2022-12-19 11:21:55</sys_created_on>
         <sys_id>98bfcbae973f9510215b35471153af7a</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Material Document Item</sys_name>
         <sys_package display_value="SAP ECC RFC Spoke" source="sn_sap_ecc_rfc_spo">91a239c5db690050ea4494d9db961933</sys_package>
         <sys_policy/>
         <sys_scope display_value="SAP ECC RFC Spoke">91a239c5db690050ea4494d9db961933</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_0a732f1a47af1110a4be65a5d36d430f_GOODSMVT_ITEM_en</sys_update_name>
         <sys_updated_by>akash</sys_updated_by>
         <sys_updated_on>2022-12-19 11:21:55</sys_updated_on>
         <url/>
@@ -4871,11 +4860,11 @@
         <sys_created_on>2022-12-06 07:54:10</sys_created_on>
         <sys_id>9a732f1a47af1110a4be65a5d36d431a</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Connection Alias</sys_name>
         <sys_package display_value="SAP ECC RFC Spoke" source="sn_sap_ecc_rfc_spo">91a239c5db690050ea4494d9db961933</sys_package>
         <sys_policy/>
         <sys_scope display_value="SAP ECC RFC Spoke">91a239c5db690050ea4494d9db961933</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_0a732f1a47af1110a4be65a5d36d430f_conn_alias_en</sys_update_name>
         <sys_updated_by>akash</sys_updated_by>
         <sys_updated_on>2022-12-06 07:54:10</sys_updated_on>
         <url/>
@@ -4894,11 +4883,11 @@
         <sys_created_on>2022-12-06 09:41:08</sys_created_on>
         <sys_id>a5fb7b5e876f1150a72d400acebb354b</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Select BAPI</sys_name>
         <sys_package display_value="SAP ECC RFC Spoke" source="sn_sap_ecc_rfc_spo">91a239c5db690050ea4494d9db961933</sys_package>
         <sys_policy/>
         <sys_scope display_value="SAP ECC RFC Spoke">91a239c5db690050ea4494d9db961933</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_0a732f1a47af1110a4be65a5d36d430f_select_bapi_en</sys_update_name>
         <sys_updated_by>akash</sys_updated_by>
         <sys_updated_on>2022-12-06 09:41:08</sys_updated_on>
         <url/>
@@ -4917,11 +4906,11 @@
         <sys_created_on>2022-12-06 07:54:10</sys_created_on>
         <sys_id>d2732f1a47af1110a4be65a5d36d4324</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Goods Create Reciept</sys_name>
         <sys_package display_value="SAP ECC RFC Spoke" source="sn_sap_ecc_rfc_spo">91a239c5db690050ea4494d9db961933</sys_package>
         <sys_policy/>
         <sys_scope display_value="SAP ECC RFC Spoke">91a239c5db690050ea4494d9db961933</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_0a732f1a47af1110a4be65a5d36d430f_dynamic_hidden_input___en</sys_update_name>
         <sys_updated_by>akash</sys_updated_by>
         <sys_updated_on>2022-12-06 07:54:10</sys_updated_on>
         <url/>
@@ -4940,11 +4929,11 @@
         <sys_created_on>2022-12-19 11:21:55</sys_created_on>
         <sys_id>d4bfcbae973f9510215b35471153af65</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Material Document Year</sys_name>
         <sys_package display_value="SAP ECC RFC Spoke" source="sn_sap_ecc_rfc_spo">91a239c5db690050ea4494d9db961933</sys_package>
         <sys_policy/>
         <sys_scope display_value="SAP ECC RFC Spoke">91a239c5db690050ea4494d9db961933</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_0a732f1a47af1110a4be65a5d36d430f_MATDOCUMENTYEAR_en</sys_update_name>
         <sys_updated_by>akash</sys_updated_by>
         <sys_updated_on>2022-12-19 11:21:55</sys_updated_on>
         <url/>
@@ -4963,11 +4952,11 @@
         <sys_created_on>2022-12-19 11:21:55</sys_created_on>
         <sys_id>d8bfcbae973f9510215b35471153af75</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>User Name for Printing Goods Receipt/Issue Slip</sys_name>
         <sys_package display_value="SAP ECC RFC Spoke" source="sn_sap_ecc_rfc_spo">91a239c5db690050ea4494d9db961933</sys_package>
         <sys_policy/>
         <sys_scope display_value="SAP ECC RFC Spoke">91a239c5db690050ea4494d9db961933</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_0a732f1a47af1110a4be65a5d36d430f_GOODSMVT_PR_URNAME_en</sys_update_name>
         <sys_updated_by>akash</sys_updated_by>
         <sys_updated_on>2022-12-19 11:21:55</sys_updated_on>
         <url/>
@@ -4986,11 +4975,11 @@
         <sys_created_on>2022-12-06 07:54:10</sys_created_on>
         <sys_id>da732f1a47af1110a4be65a5d36d431e</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Goods Create Reciept</sys_name>
         <sys_package display_value="SAP ECC RFC Spoke" source="sn_sap_ecc_rfc_spo">91a239c5db690050ea4494d9db961933</sys_package>
         <sys_policy/>
         <sys_scope display_value="SAP ECC RFC Spoke">91a239c5db690050ea4494d9db961933</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_0a732f1a47af1110a4be65a5d36d430f_dynamic_hidden_input_variable_en</sys_update_name>
         <sys_updated_by>akash</sys_updated_by>
         <sys_updated_on>2022-12-06 07:54:10</sys_updated_on>
         <url/>
@@ -5009,11 +4998,11 @@
         <sys_created_on>2022-12-19 11:21:55</sys_created_on>
         <sys_id>dcbfcbae973f9510215b35471153af59</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Material Document Number</sys_name>
         <sys_package display_value="SAP ECC RFC Spoke" source="sn_sap_ecc_rfc_spo">91a239c5db690050ea4494d9db961933</sys_package>
         <sys_policy/>
         <sys_scope display_value="SAP ECC RFC Spoke">91a239c5db690050ea4494d9db961933</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_0a732f1a47af1110a4be65a5d36d430f_MATERIALDOCUMENT_en</sys_update_name>
         <sys_updated_by>akash</sys_updated_by>
         <sys_updated_on>2022-12-19 11:21:55</sys_updated_on>
         <url/>
@@ -5032,11 +5021,11 @@
         <sys_created_on>2022-12-19 11:21:55</sys_created_on>
         <sys_id>dcbfcbae973f9510215b35471153af70</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Posting Date</sys_name>
         <sys_package display_value="SAP ECC RFC Spoke" source="sn_sap_ecc_rfc_spo">91a239c5db690050ea4494d9db961933</sys_package>
         <sys_policy/>
         <sys_scope display_value="SAP ECC RFC Spoke">91a239c5db690050ea4494d9db961933</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_0a732f1a47af1110a4be65a5d36d430f_GOODSMVT_PSTNG_DATE_en</sys_update_name>
         <sys_updated_by>akash</sys_updated_by>
         <sys_updated_on>2022-12-19 11:21:55</sys_updated_on>
         <url/>
@@ -5099,11 +5088,11 @@
         <sys_created_on>2023-02-20 11:44:35</sys_created_on>
         <sys_id>320133f647cd6110f8cfb777746d4368</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Cancel Goods Receipt</sys_name>
         <sys_package display_value="SAP ECC RFC Spoke" source="sn_sap_ecc_rfc_spo">91a239c5db690050ea4494d9db961933</sys_package>
         <sys_policy/>
         <sys_scope display_value="SAP ECC RFC Spoke">91a239c5db690050ea4494d9db961933</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_0a732f1a47af1110a4be65a5d36d430f_cancel_goods_receipt_en</sys_update_name>
         <sys_updated_by>akash</sys_updated_by>
         <sys_updated_on>2023-02-20 11:44:35</sys_updated_on>
         <url/>
@@ -5122,11 +5111,11 @@
         <sys_created_on>2022-12-06 07:54:12</sys_created_on>
         <sys_id>4f736f1a47af1110a4be65a5d36d431f</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Don't Treat as Error</sys_name>
         <sys_package display_value="SAP ECC RFC Spoke" source="sn_sap_ecc_rfc_spo">91a239c5db690050ea4494d9db961933</sys_package>
         <sys_policy/>
         <sys_scope display_value="SAP ECC RFC Spoke">91a239c5db690050ea4494d9db961933</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_0a732f1a47af1110a4be65a5d36d430f___dont_treat_as_error___en</sys_update_name>
         <sys_updated_by>akash</sys_updated_by>
         <sys_updated_on>2022-12-06 07:54:12</sys_updated_on>
         <url/>
@@ -5145,11 +5134,11 @@
         <sys_created_on>2022-12-06 07:54:12</sys_created_on>
         <sys_id>7e736f1a47af1110a4be65a5d36d4319</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Action Status</sys_name>
         <sys_package display_value="SAP ECC RFC Spoke" source="sn_sap_ecc_rfc_spo">91a239c5db690050ea4494d9db961933</sys_package>
         <sys_policy/>
         <sys_scope display_value="SAP ECC RFC Spoke">91a239c5db690050ea4494d9db961933</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_0a732f1a47af1110a4be65a5d36d430f___action_status___en</sys_update_name>
         <sys_updated_by>akash</sys_updated_by>
         <sys_updated_on>2022-12-06 07:54:12</sys_updated_on>
         <url/>
@@ -5168,11 +5157,11 @@
         <sys_created_on>2022-12-06 07:54:12</sys_created_on>
         <sys_id>ba736f1a47af1110a4be65a5d36d4311</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Status</sys_name>
         <sys_package display_value="SAP ECC RFC Spoke" source="sn_sap_ecc_rfc_spo">91a239c5db690050ea4494d9db961933</sys_package>
         <sys_policy/>
         <sys_scope display_value="SAP ECC RFC Spoke">91a239c5db690050ea4494d9db961933</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_0a732f1a47af1110a4be65a5d36d430f_status_en</sys_update_name>
         <sys_updated_by>akash</sys_updated_by>
         <sys_updated_on>2022-12-06 07:54:12</sys_updated_on>
         <url/>
@@ -5191,11 +5180,11 @@
         <sys_created_on>2022-12-06 07:54:12</sys_created_on>
         <sys_id>fa736f1a47af1110a4be65a5d36d4315</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Error Message</sys_name>
         <sys_package display_value="SAP ECC RFC Spoke" source="sn_sap_ecc_rfc_spo">91a239c5db690050ea4494d9db961933</sys_package>
         <sys_policy/>
         <sys_scope display_value="SAP ECC RFC Spoke">91a239c5db690050ea4494d9db961933</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_0a732f1a47af1110a4be65a5d36d430f_err_en</sys_update_name>
         <sys_updated_by>akash</sys_updated_by>
         <sys_updated_on>2022-12-06 07:54:12</sys_updated_on>
         <url/>
@@ -6382,11 +6371,11 @@
         <sys_created_on>2022-12-07 11:29:23</sys_created_on>
         <sys_id>705e9d3687a7dd101dff337e0ebb3517</sys_id>
         <sys_mod_count>1</sys_mod_count>
-        <sys_name/>
+        <sys_name>Status</sys_name>
         <sys_package display_value="SAP ECC RFC Spoke" source="sn_sap_ecc_rfc_spo">91a239c5db690050ea4494d9db961933</sys_package>
         <sys_policy/>
         <sys_scope display_value="SAP ECC RFC Spoke">91a239c5db690050ea4494d9db961933</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_205e5d3687a7dd101dff337e0ebb35df_status_en</sys_update_name>
         <sys_updated_by>akash</sys_updated_by>
         <sys_updated_on>2022-12-30 08:45:51</sys_updated_on>
         <url/>
@@ -6405,11 +6394,11 @@
         <sys_created_on>2022-12-07 11:29:23</sys_created_on>
         <sys_id>f05e9d3687a7dd101dff337e0ebb3513</sys_id>
         <sys_mod_count>1</sys_mod_count>
-        <sys_name/>
+        <sys_name>Response</sys_name>
         <sys_package display_value="SAP ECC RFC Spoke" source="sn_sap_ecc_rfc_spo">91a239c5db690050ea4494d9db961933</sys_package>
         <sys_policy/>
         <sys_scope display_value="SAP ECC RFC Spoke">91a239c5db690050ea4494d9db961933</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_205e5d3687a7dd101dff337e0ebb35df_response_en</sys_update_name>
         <sys_updated_by>akash</sys_updated_by>
         <sys_updated_on>2022-12-30 08:45:51</sys_updated_on>
         <url/>
@@ -6658,18 +6647,6 @@
         <sys_updated_on>2023-02-16 07:00:56</sys_updated_on>
         <table>var__m_sys_hub_step_ext_input_905e5d3687a7dd101dff337e0ebb358c</table>
         <value>{{action.GOODSMVT_PSTNG_DATE}}</value>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>script</field>
-        <id>905e5d3687a7dd101dff337e0ebb358c</id>
-        <sys_created_by>akash</sys_created_by>
-        <sys_created_on>2023-02-16 07:00:56</sys_created_on>
-        <sys_id>24c946e5478d6550f8cfb777746d435c</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>akash</sys_updated_by>
-        <sys_updated_on>2023-02-16 07:00:56</sys_updated_on>
-        <table>var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7</table>
-        <value/>
     </sys_element_mapping>
     <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>userName</field>
@@ -7674,11 +7651,11 @@
         <sys_created_on>2023-01-06 09:21:47</sys_created_on>
         <sys_id>14d067d49790e110215b35471153afc6</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Payload</sys_name>
         <sys_package display_value="SAP ECC RFC Spoke" source="sn_sap_ecc_rfc_spo">91a239c5db690050ea4494d9db961933</sys_package>
         <sys_policy/>
         <sys_scope display_value="SAP ECC RFC Spoke">91a239c5db690050ea4494d9db961933</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_905e5d3687a7dd101dff337e0ebb358c_payload_en</sys_update_name>
         <sys_updated_by>akash</sys_updated_by>
         <sys_updated_on>2023-01-06 09:21:47</sys_updated_on>
         <url/>
@@ -7697,11 +7674,11 @@
         <sys_created_on>2022-12-07 11:29:22</sys_created_on>
         <sys_id>2c5e5d3687a7dd101dff337e0ebb35b3</sys_id>
         <sys_mod_count>2</sys_mod_count>
-        <sys_name/>
+        <sys_name>Connection Host</sys_name>
         <sys_package display_value="SAP ECC RFC Spoke" source="sn_sap_ecc_rfc_spo">91a239c5db690050ea4494d9db961933</sys_package>
         <sys_policy/>
         <sys_scope display_value="SAP ECC RFC Spoke">91a239c5db690050ea4494d9db961933</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_905e5d3687a7dd101dff337e0ebb358c_conn_host_en</sys_update_name>
         <sys_updated_by>akash</sys_updated_by>
         <sys_updated_on>2023-01-06 09:21:47</sys_updated_on>
         <url/>
@@ -7720,11 +7697,11 @@
         <sys_created_on>2022-12-07 11:29:22</sys_created_on>
         <sys_id>a85e5d3687a7dd101dff337e0ebb35b7</sys_id>
         <sys_mod_count>2</sys_mod_count>
-        <sys_name/>
+        <sys_name>Connection Parameters</sys_name>
         <sys_package display_value="SAP ECC RFC Spoke" source="sn_sap_ecc_rfc_spo">91a239c5db690050ea4494d9db961933</sys_package>
         <sys_policy/>
         <sys_scope display_value="SAP ECC RFC Spoke">91a239c5db690050ea4494d9db961933</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_905e5d3687a7dd101dff337e0ebb358c_conn_params_en</sys_update_name>
         <sys_updated_by>akash</sys_updated_by>
         <sys_updated_on>2023-01-06 09:21:47</sys_updated_on>
         <url/>
@@ -7743,11 +7720,11 @@
         <sys_created_on>2022-12-07 11:29:22</sys_created_on>
         <sys_id>ac5e5d3687a7dd101dff337e0ebb35af</sys_id>
         <sys_mod_count>2</sys_mod_count>
-        <sys_name/>
+        <sys_name>Credential ID</sys_name>
         <sys_package display_value="SAP ECC RFC Spoke" source="sn_sap_ecc_rfc_spo">91a239c5db690050ea4494d9db961933</sys_package>
         <sys_policy/>
         <sys_scope display_value="SAP ECC RFC Spoke">91a239c5db690050ea4494d9db961933</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_905e5d3687a7dd101dff337e0ebb358c_cred_id_en</sys_update_name>
         <sys_updated_by>akash</sys_updated_by>
         <sys_updated_on>2023-01-06 09:21:47</sys_updated_on>
         <url/>
@@ -8270,11 +8247,11 @@
         <sys_created_on>2022-12-07 11:29:24</sys_created_on>
         <sys_id>015e9d3687a7dd101dff337e0ebb3549</sys_id>
         <sys_mod_count>1</sys_mod_count>
-        <sys_name/>
+        <sys_name>Response</sys_name>
         <sys_package display_value="SAP ECC RFC Spoke" source="sn_sap_ecc_rfc_spo">91a239c5db690050ea4494d9db961933</sys_package>
         <sys_policy/>
         <sys_scope display_value="SAP ECC RFC Spoke">91a239c5db690050ea4494d9db961933</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_c95e9d3687a7dd101dff337e0ebb3539_response_en</sys_update_name>
         <sys_updated_by>akash</sys_updated_by>
         <sys_updated_on>2022-12-30 08:45:52</sys_updated_on>
         <url/>
@@ -8293,11 +8270,11 @@
         <sys_created_on>2022-12-07 11:29:25</sys_created_on>
         <sys_id>1d5e9d3687a7dd101dff337e0ebb3550</sys_id>
         <sys_mod_count>1</sys_mod_count>
-        <sys_name/>
+        <sys_name>Error Message</sys_name>
         <sys_package display_value="SAP ECC RFC Spoke" source="sn_sap_ecc_rfc_spo">91a239c5db690050ea4494d9db961933</sys_package>
         <sys_policy/>
         <sys_scope display_value="SAP ECC RFC Spoke">91a239c5db690050ea4494d9db961933</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_c95e9d3687a7dd101dff337e0ebb3539_err_en</sys_update_name>
         <sys_updated_by>akash</sys_updated_by>
         <sys_updated_on>2022-12-30 08:45:52</sys_updated_on>
         <url/>
@@ -8316,11 +8293,11 @@
         <sys_created_on>2022-12-07 11:29:25</sys_created_on>
         <sys_id>8d5e9d3687a7dd101dff337e0ebb354c</sys_id>
         <sys_mod_count>1</sys_mod_count>
-        <sys_name/>
+        <sys_name>Status</sys_name>
         <sys_package display_value="SAP ECC RFC Spoke" source="sn_sap_ecc_rfc_spo">91a239c5db690050ea4494d9db961933</sys_package>
         <sys_policy/>
         <sys_scope display_value="SAP ECC RFC Spoke">91a239c5db690050ea4494d9db961933</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_c95e9d3687a7dd101dff337e0ebb3539_status_en</sys_update_name>
         <sys_updated_by>akash</sys_updated_by>
         <sys_updated_on>2022-12-30 08:45:52</sys_updated_on>
         <url/>
@@ -10038,11 +10015,11 @@
         <sys_created_on>2023-02-20 11:44:43</sys_created_on>
         <sys_id>281173f647cd6110f8cfb777746d43f2</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Cancel Goods Receipt</sys_name>
         <sys_package display_value="SAP ECC RFC Spoke" source="sn_sap_ecc_rfc_spo">91a239c5db690050ea4494d9db961933</sys_package>
         <sys_policy/>
         <sys_scope display_value="SAP ECC RFC Spoke">91a239c5db690050ea4494d9db961933</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_1b4e1d3687a7dd101dff337e0ebb35ca_dynamic_hidden_input_cancel_goods_receipt_en</sys_update_name>
         <sys_updated_by>akash</sys_updated_by>
         <sys_updated_on>2023-02-20 11:44:43</sys_updated_on>
         <url/>
@@ -10061,11 +10038,11 @@
         <sys_created_on>2022-12-07 11:29:19</sys_created_on>
         <sys_id>3b4e1d3687a7dd101dff337e0ebb35f9</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Goods Create Reciept</sys_name>
         <sys_package display_value="SAP ECC RFC Spoke" source="sn_sap_ecc_rfc_spo">91a239c5db690050ea4494d9db961933</sys_package>
         <sys_policy/>
         <sys_scope display_value="SAP ECC RFC Spoke">91a239c5db690050ea4494d9db961933</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_1b4e1d3687a7dd101dff337e0ebb35ca_dynamic_hidden_input___en</sys_update_name>
         <sys_updated_by>krishna</sys_updated_by>
         <sys_updated_on>2022-12-07 11:29:19</sys_updated_on>
         <url/>
@@ -10084,11 +10061,11 @@
         <sys_created_on>2022-12-19 11:58:35</sys_created_on>
         <sys_id>6118d7e6977f9510215b35471153af99</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Posting Date</sys_name>
         <sys_package display_value="SAP ECC RFC Spoke" source="sn_sap_ecc_rfc_spo">91a239c5db690050ea4494d9db961933</sys_package>
         <sys_policy/>
         <sys_scope display_value="SAP ECC RFC Spoke">91a239c5db690050ea4494d9db961933</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_1b4e1d3687a7dd101dff337e0ebb35ca_GOODSMVT_PSTNG_DATE_en</sys_update_name>
         <sys_updated_by>akash</sys_updated_by>
         <sys_updated_on>2022-12-19 11:58:35</sys_updated_on>
         <url/>
@@ -10107,11 +10084,11 @@
         <sys_created_on>2022-12-19 11:58:35</sys_created_on>
         <sys_id>6918d7e6977f9510215b35471153af9d</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>User Name for Printing Goods Receipt/Issue Slip</sys_name>
         <sys_package display_value="SAP ECC RFC Spoke" source="sn_sap_ecc_rfc_spo">91a239c5db690050ea4494d9db961933</sys_package>
         <sys_policy/>
         <sys_scope display_value="SAP ECC RFC Spoke">91a239c5db690050ea4494d9db961933</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_1b4e1d3687a7dd101dff337e0ebb35ca_GOODSMVT_PR_URNAME_en</sys_update_name>
         <sys_updated_by>akash</sys_updated_by>
         <sys_updated_on>2022-12-19 11:58:35</sys_updated_on>
         <url/>
@@ -10130,11 +10107,11 @@
         <sys_created_on>2022-12-07 11:29:19</sys_created_on>
         <sys_id>774e1d3687a7dd101dff337e0ebb35ff</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Goods Create Receipt</sys_name>
         <sys_package display_value="SAP ECC RFC Spoke" source="sn_sap_ecc_rfc_spo">91a239c5db690050ea4494d9db961933</sys_package>
         <sys_policy/>
         <sys_scope display_value="SAP ECC RFC Spoke">91a239c5db690050ea4494d9db961933</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_1b4e1d3687a7dd101dff337e0ebb35ca_dynamic_hidden_input_goods_create_reciept_en</sys_update_name>
         <sys_updated_by>krishna</sys_updated_by>
         <sys_updated_on>2022-12-07 11:29:19</sys_updated_on>
         <url/>
@@ -10153,11 +10130,11 @@
         <sys_created_on>2022-12-07 11:29:19</sys_created_on>
         <sys_id>774e5d3687a7dd101dff337e0ebb3533</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Select BAPI</sys_name>
         <sys_package display_value="SAP ECC RFC Spoke" source="sn_sap_ecc_rfc_spo">91a239c5db690050ea4494d9db961933</sys_package>
         <sys_policy/>
         <sys_scope display_value="SAP ECC RFC Spoke">91a239c5db690050ea4494d9db961933</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_1b4e1d3687a7dd101dff337e0ebb35ca_select_bapi_en</sys_update_name>
         <sys_updated_by>krishna</sys_updated_by>
         <sys_updated_on>2022-12-07 11:29:19</sys_updated_on>
         <url/>
@@ -10176,11 +10153,11 @@
         <sys_created_on>2022-12-19 11:58:35</sys_created_on>
         <sys_id>9918d7e6977f9510215b35471153af8d</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Material Document Year</sys_name>
         <sys_package display_value="SAP ECC RFC Spoke" source="sn_sap_ecc_rfc_spo">91a239c5db690050ea4494d9db961933</sys_package>
         <sys_policy/>
         <sys_scope display_value="SAP ECC RFC Spoke">91a239c5db690050ea4494d9db961933</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_1b4e1d3687a7dd101dff337e0ebb35ca_MATDOCUMENTYEAR_en</sys_update_name>
         <sys_updated_by>akash</sys_updated_by>
         <sys_updated_on>2022-12-19 11:58:35</sys_updated_on>
         <url/>
@@ -10199,11 +10176,11 @@
         <sys_created_on>2022-12-07 11:29:18</sys_created_on>
         <sys_id>a74e1d3687a7dd101dff337e0ebb35f2</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Goods Create Reciept</sys_name>
         <sys_package display_value="SAP ECC RFC Spoke" source="sn_sap_ecc_rfc_spo">91a239c5db690050ea4494d9db961933</sys_package>
         <sys_policy/>
         <sys_scope display_value="SAP ECC RFC Spoke">91a239c5db690050ea4494d9db961933</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_1b4e1d3687a7dd101dff337e0ebb35ca_dynamic_hidden_input_variable_en</sys_update_name>
         <sys_updated_by>krishna</sys_updated_by>
         <sys_updated_on>2022-12-07 11:29:18</sys_updated_on>
         <url/>
@@ -10222,11 +10199,11 @@
         <sys_created_on>2022-12-07 11:29:20</sys_created_on>
         <sys_id>c45e5d3687a7dd101dff337e0ebb3570</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Additional Fields</sys_name>
         <sys_package display_value="SAP ECC RFC Spoke" source="sn_sap_ecc_rfc_spo">91a239c5db690050ea4494d9db961933</sys_package>
         <sys_policy/>
         <sys_scope display_value="SAP ECC RFC Spoke">91a239c5db690050ea4494d9db961933</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_1b4e1d3687a7dd101dff337e0ebb35ca_additional_fields_en</sys_update_name>
         <sys_updated_by>krishna</sys_updated_by>
         <sys_updated_on>2022-12-07 11:29:20</sys_updated_on>
         <url/>
@@ -10245,11 +10222,11 @@
         <sys_created_on>2022-12-19 11:58:35</sys_created_on>
         <sys_id>d118d7e6977f9510215b35471153af82</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Material Document Number</sys_name>
         <sys_package display_value="SAP ECC RFC Spoke" source="sn_sap_ecc_rfc_spo">91a239c5db690050ea4494d9db961933</sys_package>
         <sys_policy/>
         <sys_scope display_value="SAP ECC RFC Spoke">91a239c5db690050ea4494d9db961933</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_1b4e1d3687a7dd101dff337e0ebb35ca_MATERIALDOCUMENT_en</sys_update_name>
         <sys_updated_by>akash</sys_updated_by>
         <sys_updated_on>2022-12-19 11:58:35</sys_updated_on>
         <url/>
@@ -10268,11 +10245,11 @@
         <sys_created_on>2022-12-19 11:58:35</sys_created_on>
         <sys_id>e518d7e6977f9510215b35471153afa2</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Material Document Item</sys_name>
         <sys_package display_value="SAP ECC RFC Spoke" source="sn_sap_ecc_rfc_spo">91a239c5db690050ea4494d9db961933</sys_package>
         <sys_policy/>
         <sys_scope display_value="SAP ECC RFC Spoke">91a239c5db690050ea4494d9db961933</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_1b4e1d3687a7dd101dff337e0ebb35ca_GOODSMVT_ITEM_en</sys_update_name>
         <sys_updated_by>akash</sys_updated_by>
         <sys_updated_on>2022-12-19 11:58:35</sys_updated_on>
         <url/>
@@ -10291,11 +10268,11 @@
         <sys_created_on>2022-12-07 11:29:18</sys_created_on>
         <sys_id>eb4e1d3687a7dd101dff337e0ebb35ed</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Connection Alias</sys_name>
         <sys_package display_value="SAP ECC RFC Spoke" source="sn_sap_ecc_rfc_spo">91a239c5db690050ea4494d9db961933</sys_package>
         <sys_policy/>
         <sys_scope display_value="SAP ECC RFC Spoke">91a239c5db690050ea4494d9db961933</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_1b4e1d3687a7dd101dff337e0ebb35ca_conn_alias_en</sys_update_name>
         <sys_updated_by>krishna</sys_updated_by>
         <sys_updated_on>2022-12-07 11:29:18</sys_updated_on>
         <url/>
@@ -10358,11 +10335,11 @@
         <sys_created_on>2023-02-20 11:44:44</sys_created_on>
         <sys_id>0511b3f647cd6110f8cfb777746d4375</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Cancel Goods Receipt</sys_name>
         <sys_package display_value="SAP ECC RFC Spoke" source="sn_sap_ecc_rfc_spo">91a239c5db690050ea4494d9db961933</sys_package>
         <sys_policy/>
         <sys_scope display_value="SAP ECC RFC Spoke">91a239c5db690050ea4494d9db961933</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_1b4e1d3687a7dd101dff337e0ebb35ca_cancel_goods_receipt_en</sys_update_name>
         <sys_updated_by>akash</sys_updated_by>
         <sys_updated_on>2023-02-20 11:44:44</sys_updated_on>
         <url/>
@@ -10381,11 +10358,11 @@
         <sys_created_on>2022-12-07 11:29:25</sys_created_on>
         <sys_id>1d5e9d3687a7dd101dff337e0ebb358a</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Status</sys_name>
         <sys_package display_value="SAP ECC RFC Spoke" source="sn_sap_ecc_rfc_spo">91a239c5db690050ea4494d9db961933</sys_package>
         <sys_policy/>
         <sys_scope display_value="SAP ECC RFC Spoke">91a239c5db690050ea4494d9db961933</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_1b4e1d3687a7dd101dff337e0ebb35ca_status_en</sys_update_name>
         <sys_updated_by>krishna</sys_updated_by>
         <sys_updated_on>2022-12-07 11:29:25</sys_updated_on>
         <url/>
@@ -10404,11 +10381,11 @@
         <sys_created_on>2022-12-07 11:29:25</sys_created_on>
         <sys_id>d15e9d3687a7dd101dff337e0ebb358f</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Error Message</sys_name>
         <sys_package display_value="SAP ECC RFC Spoke" source="sn_sap_ecc_rfc_spo">91a239c5db690050ea4494d9db961933</sys_package>
         <sys_policy/>
         <sys_scope display_value="SAP ECC RFC Spoke">91a239c5db690050ea4494d9db961933</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_1b4e1d3687a7dd101dff337e0ebb35ca_err_en</sys_update_name>
         <sys_updated_by>krishna</sys_updated_by>
         <sys_updated_on>2022-12-07 11:29:25</sys_updated_on>
         <url/>
@@ -10427,11 +10404,11 @@
         <sys_created_on>2022-12-07 11:29:26</sys_created_on>
         <sys_id>e95e9d3687a7dd101dff337e0ebb3593</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Action Status</sys_name>
         <sys_package display_value="SAP ECC RFC Spoke" source="sn_sap_ecc_rfc_spo">91a239c5db690050ea4494d9db961933</sys_package>
         <sys_policy/>
         <sys_scope display_value="SAP ECC RFC Spoke">91a239c5db690050ea4494d9db961933</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_1b4e1d3687a7dd101dff337e0ebb35ca___action_status___en</sys_update_name>
         <sys_updated_by>krishna</sys_updated_by>
         <sys_updated_on>2022-12-07 11:29:26</sys_updated_on>
         <url/>
@@ -10450,11 +10427,11 @@
         <sys_created_on>2022-12-07 11:29:26</sys_created_on>
         <sys_id>e95e9d3687a7dd101dff337e0ebb35a6</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Don't Treat as Error</sys_name>
         <sys_package display_value="SAP ECC RFC Spoke" source="sn_sap_ecc_rfc_spo">91a239c5db690050ea4494d9db961933</sys_package>
         <sys_policy/>
         <sys_scope display_value="SAP ECC RFC Spoke">91a239c5db690050ea4494d9db961933</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_1b4e1d3687a7dd101dff337e0ebb35ca___dont_treat_as_error___en</sys_update_name>
         <sys_updated_by>krishna</sys_updated_by>
         <sys_updated_on>2022-12-07 11:29:26</sys_updated_on>
         <url/>
@@ -10503,9 +10480,8 @@
             <value>error</value>
         </sys_choice>
     </sys_choice>
-    <sys_hub_action_type_definition action="UPDATE">
+    <sys_hub_action_type_definition action="update">
         <sys_id>0a732f1a47af1110a4be65a5d36d430f</sys_id>
         <latest_snapshot>1b4e1d3687a7dd101dff337e0ebb35ca</latest_snapshot>
-        <compiler_build>glide-sandiego-12-22-2021__patch9a-12-12-2022_01-04-2023_0931.zip</compiler_build>
     </sys_hub_action_type_definition>
 </record_update>
